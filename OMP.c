@@ -1,10 +1,11 @@
-// Version 1
-// Sequential product without optimization
+// Version 2
+// Product using openMP to optimize
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
+#include <omp.h>
 
 void fill_random(int *matrix, int n) {
     for (int i = 0; i < n; i++)
@@ -13,6 +14,7 @@ void fill_random(int *matrix, int n) {
 }
 
 void multiply(int *A, int *B, int *C, int n) {
+    #pragma omp parallel for collapse(2)
     for (int i = 0; i < n; i++)
         for (int j = 0; j < n; j++) {
             int sum = 0;
