@@ -1,6 +1,6 @@
 #!/bin/bash
 
-> nodo0/Secuential.txt
+> nodo0/Sequential.txt
 > nodo0/OMP.txt
 > nodo0/OMP_T.txt
 

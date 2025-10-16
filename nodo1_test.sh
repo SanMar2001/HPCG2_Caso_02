@@ -1,6 +1,6 @@
 #!/bin/bash
 
-> nodo1/Secuential.txt
+> nodo1/Sequential.txt
 > nodo1/OMP.txt
 > nodo1/OMP_T.txt
 
@@ -8,7 +8,7 @@ for j in {1..5}
 do
     for i in 400 800 1000 1200 1600
     do
-        ./sequential $i >> nodo1/Secuential.txt
+        ./sequential $i >> nodo1/Sequential.txt
     done
 
     for i in 400 800 1000 1200 1600

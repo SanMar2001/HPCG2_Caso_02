@@ -1,0 +1,625 @@
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+1.354760713
+--------------------------------------------------------------------------------
+Group 1: CPI
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|     RETIRED_UOPS     |   PMC2  |          0 |
++----------------------+---------+------------+
+
++----------------------+------------+
+|        Metric        | HWThread 0 |
++----------------------+------------+
+|  Runtime (RDTSC) [s] |     1.3666 |
+| Runtime unhalted [s] |          0 |
+|      Clock [MHz]     |      -     |
+|          CPI         |      -     |
+|  CPI (based on uops) |      -     |
+|          IPC         |      -     |
++----------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+1.213080424
+--------------------------------------------------------------------------------
+Group 1: CACHE
++------------------------+---------+------------+
+|          Event         | Counter | HWThread 0 |
++------------------------+---------+------------+
+|    ACTUAL_CPU_CLOCK    |  FIXC1  |          0 |
+|      MAX_CPU_CLOCK     |  FIXC2  |          0 |
+|  RETIRED_INSTRUCTIONS  |   PMC0  |          0 |
+|   CPU_CLOCKS_UNHALTED  |   PMC1  |          0 |
+|   DATA_CACHE_ACCESSES  |   PMC2  |          0 |
+| DATA_CACHE_REFILLS_ALL |   PMC3  |          0 |
++------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     1.2296 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+|   data cache requests   |          0 |
+| data cache request rate |      -     |
+|    data cache misses    |          0 |
+|   data cache miss rate  |      -     |
+|  data cache miss ratio  |      -     |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+1.155166226
+--------------------------------------------------------------------------------
+Group 1: L3
++-----------------------------+---------+------------+
+|            Event            | Counter | HWThread 0 |
++-----------------------------+---------+------------+
+|       ACTUAL_CPU_CLOCK      |  FIXC1  |          0 |
+|        MAX_CPU_CLOCK        |  FIXC2  |          0 |
+|     RETIRED_INSTRUCTIONS    |   PMC0  |          0 |
+|     CPU_CLOCKS_UNHALTED     |   PMC1  |          0 |
+|       L2_PF_HIT_IN_L3       |   PMC2  |          0 |
+|       L2_PF_MISS_IN_L3      |   PMC3  |          0 |
+| L2_CACHE_MISS_AFTER_L1_MISS |   PMC4  |          0 |
++-----------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     1.1699 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+| L3 bandwidth [MBytes/s] |          0 |
+| L3 data volume [GBytes] |          0 |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+1.132124606
+--------------------------------------------------------------------------------
+Group 1: MEM1
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|    DRAM_CHANNEL_0    |   DFC0  |          0 |
+|    DRAM_CHANNEL_1    |   DFC1  |          0 |
+|    DRAM_CHANNEL_2    |   DFC2  |          0 |
+|    DRAM_CHANNEL_3    |   DFC3  |          0 |
++----------------------+---------+------------+
+
++--------------------------------------------+------------+
+|                   Metric                   | HWThread 0 |
++--------------------------------------------+------------+
+|             Runtime (RDTSC) [s]            |     1.1436 |
+|            Runtime unhalted [s]            |          0 |
+|                 Clock [MHz]                |      -     |
+|                     CPI                    |      -     |
+| Memory bandwidth (channels 0-3) [MBytes/s] |          0 |
+| Memory data volume (channels 0-3) [GBytes] |          0 |
++--------------------------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+2.413021206
+--------------------------------------------------------------------------------
+Group 1: CPI
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|     RETIRED_UOPS     |   PMC2  |          0 |
++----------------------+---------+------------+
+
++----------------------+------------+
+|        Metric        | HWThread 0 |
++----------------------+------------+
+|  Runtime (RDTSC) [s] |     2.4363 |
+| Runtime unhalted [s] |          0 |
+|      Clock [MHz]     |      -     |
+|          CPI         |      -     |
+|  CPI (based on uops) |      -     |
+|          IPC         |      -     |
++----------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+2.427537565
+--------------------------------------------------------------------------------
+Group 1: CACHE
++------------------------+---------+------------+
+|          Event         | Counter | HWThread 0 |
++------------------------+---------+------------+
+|    ACTUAL_CPU_CLOCK    |  FIXC1  |          0 |
+|      MAX_CPU_CLOCK     |  FIXC2  |          0 |
+|  RETIRED_INSTRUCTIONS  |   PMC0  |          0 |
+|   CPU_CLOCKS_UNHALTED  |   PMC1  |          0 |
+|   DATA_CACHE_ACCESSES  |   PMC2  |          0 |
+| DATA_CACHE_REFILLS_ALL |   PMC3  |          0 |
++------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     2.4458 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+|   data cache requests   |          0 |
+| data cache request rate |      -     |
+|    data cache misses    |          0 |
+|   data cache miss rate  |      -     |
+|  data cache miss ratio  |      -     |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+2.386525084
+--------------------------------------------------------------------------------
+Group 1: L3
++-----------------------------+---------+------------+
+|            Event            | Counter | HWThread 0 |
++-----------------------------+---------+------------+
+|       ACTUAL_CPU_CLOCK      |  FIXC1  |          0 |
+|        MAX_CPU_CLOCK        |  FIXC2  |          0 |
+|     RETIRED_INSTRUCTIONS    |   PMC0  |          0 |
+|     CPU_CLOCKS_UNHALTED     |   PMC1  |          0 |
+|       L2_PF_HIT_IN_L3       |   PMC2  |          0 |
+|       L2_PF_MISS_IN_L3      |   PMC3  |          0 |
+| L2_CACHE_MISS_AFTER_L1_MISS |   PMC4  |          0 |
++-----------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     2.4087 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+| L3 bandwidth [MBytes/s] |          0 |
+| L3 data volume [GBytes] |          0 |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+2.374872912
+--------------------------------------------------------------------------------
+Group 1: MEM1
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|    DRAM_CHANNEL_0    |   DFC0  |          0 |
+|    DRAM_CHANNEL_1    |   DFC1  |          0 |
+|    DRAM_CHANNEL_2    |   DFC2  |          0 |
+|    DRAM_CHANNEL_3    |   DFC3  |          0 |
++----------------------+---------+------------+
+
++--------------------------------------------+------------+
+|                   Metric                   | HWThread 0 |
++--------------------------------------------+------------+
+|             Runtime (RDTSC) [s]            |     2.3952 |
+|            Runtime unhalted [s]            |          0 |
+|                 Clock [MHz]                |      -     |
+|                     CPI                    |      -     |
+| Memory bandwidth (channels 0-3) [MBytes/s] |          0 |
+| Memory data volume (channels 0-3) [GBytes] |          0 |
++--------------------------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+4.255074897
+--------------------------------------------------------------------------------
+Group 1: CPI
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|     RETIRED_UOPS     |   PMC2  |          0 |
++----------------------+---------+------------+
+
++----------------------+------------+
+|        Metric        | HWThread 0 |
++----------------------+------------+
+|  Runtime (RDTSC) [s] |     4.2847 |
+| Runtime unhalted [s] |          0 |
+|      Clock [MHz]     |      -     |
+|          CPI         |      -     |
+|  CPI (based on uops) |      -     |
+|          IPC         |      -     |
++----------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+4.209076412
+--------------------------------------------------------------------------------
+Group 1: CACHE
++------------------------+---------+------------+
+|          Event         | Counter | HWThread 0 |
++------------------------+---------+------------+
+|    ACTUAL_CPU_CLOCK    |  FIXC1  |          0 |
+|      MAX_CPU_CLOCK     |  FIXC2  |          0 |
+|  RETIRED_INSTRUCTIONS  |   PMC0  |          0 |
+|   CPU_CLOCKS_UNHALTED  |   PMC1  |          0 |
+|   DATA_CACHE_ACCESSES  |   PMC2  |          0 |
+| DATA_CACHE_REFILLS_ALL |   PMC3  |          0 |
++------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     4.2402 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+|   data cache requests   |          0 |
+| data cache request rate |      -     |
+|    data cache misses    |          0 |
+|   data cache miss rate  |      -     |
+|  data cache miss ratio  |      -     |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+4.210954111
+--------------------------------------------------------------------------------
+Group 1: L3
++-----------------------------+---------+------------+
+|            Event            | Counter | HWThread 0 |
++-----------------------------+---------+------------+
+|       ACTUAL_CPU_CLOCK      |  FIXC1  |          0 |
+|        MAX_CPU_CLOCK        |  FIXC2  |          0 |
+|     RETIRED_INSTRUCTIONS    |   PMC0  |          0 |
+|     CPU_CLOCKS_UNHALTED     |   PMC1  |          0 |
+|       L2_PF_HIT_IN_L3       |   PMC2  |          0 |
+|       L2_PF_MISS_IN_L3      |   PMC3  |          0 |
+| L2_CACHE_MISS_AFTER_L1_MISS |   PMC4  |          0 |
++-----------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |     4.2408 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+| L3 bandwidth [MBytes/s] |          0 |
+| L3 data volume [GBytes] |          0 |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+4.165805978
+--------------------------------------------------------------------------------
+Group 1: MEM1
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|    DRAM_CHANNEL_0    |   DFC0  |          0 |
+|    DRAM_CHANNEL_1    |   DFC1  |          0 |
+|    DRAM_CHANNEL_2    |   DFC2  |          0 |
+|    DRAM_CHANNEL_3    |   DFC3  |          0 |
++----------------------+---------+------------+
+
++--------------------------------------------+------------+
+|                   Metric                   | HWThread 0 |
++--------------------------------------------+------------+
+|             Runtime (RDTSC) [s]            |     4.1973 |
+|            Runtime unhalted [s]            |          0 |
+|                 Clock [MHz]                |      -     |
+|                     CPI                    |      -     |
+| Memory bandwidth (channels 0-3) [MBytes/s] |          0 |
+| Memory data volume (channels 0-3) [GBytes] |          0 |
++--------------------------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+12.928009367
+--------------------------------------------------------------------------------
+Group 1: CPI
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|     RETIRED_UOPS     |   PMC2  |          0 |
++----------------------+---------+------------+
+
++----------------------+------------+
+|        Metric        | HWThread 0 |
++----------------------+------------+
+|  Runtime (RDTSC) [s] |    12.9836 |
+| Runtime unhalted [s] |          0 |
+|      Clock [MHz]     |      -     |
+|          CPI         |      -     |
+|  CPI (based on uops) |      -     |
+|          IPC         |      -     |
++----------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+13.191627676
+--------------------------------------------------------------------------------
+Group 1: CACHE
++------------------------+---------+------------+
+|          Event         | Counter | HWThread 0 |
++------------------------+---------+------------+
+|    ACTUAL_CPU_CLOCK    |  FIXC1  |          0 |
+|      MAX_CPU_CLOCK     |  FIXC2  |          0 |
+|  RETIRED_INSTRUCTIONS  |   PMC0  |          0 |
+|   CPU_CLOCKS_UNHALTED  |   PMC1  |          0 |
+|   DATA_CACHE_ACCESSES  |   PMC2  |          0 |
+| DATA_CACHE_REFILLS_ALL |   PMC3  |          0 |
++------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |    13.2452 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+|   data cache requests   |          0 |
+| data cache request rate |      -     |
+|    data cache misses    |          0 |
+|   data cache miss rate  |      -     |
+|  data cache miss ratio  |      -     |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+13.317193498
+--------------------------------------------------------------------------------
+Group 1: L3
++-----------------------------+---------+------------+
+|            Event            | Counter | HWThread 0 |
++-----------------------------+---------+------------+
+|       ACTUAL_CPU_CLOCK      |  FIXC1  |          0 |
+|        MAX_CPU_CLOCK        |  FIXC2  |          0 |
+|     RETIRED_INSTRUCTIONS    |   PMC0  |          0 |
+|     CPU_CLOCKS_UNHALTED     |   PMC1  |          0 |
+|       L2_PF_HIT_IN_L3       |   PMC2  |          0 |
+|       L2_PF_MISS_IN_L3      |   PMC3  |          0 |
+| L2_CACHE_MISS_AFTER_L1_MISS |   PMC4  |          0 |
++-----------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |    13.3702 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+| L3 bandwidth [MBytes/s] |          0 |
+| L3 data volume [GBytes] |          0 |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+12.548468479
+--------------------------------------------------------------------------------
+Group 1: MEM1
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|    DRAM_CHANNEL_0    |   DFC0  |          0 |
+|    DRAM_CHANNEL_1    |   DFC1  |          0 |
+|    DRAM_CHANNEL_2    |   DFC2  |          0 |
+|    DRAM_CHANNEL_3    |   DFC3  |          0 |
++----------------------+---------+------------+
+
++--------------------------------------------+------------+
+|                   Metric                   | HWThread 0 |
++--------------------------------------------+------------+
+|             Runtime (RDTSC) [s]            |    12.6010 |
+|            Runtime unhalted [s]            |          0 |
+|                 Clock [MHz]                |      -     |
+|                     CPI                    |      -     |
+| Memory bandwidth (channels 0-3) [MBytes/s] |          0 |
+| Memory data volume (channels 0-3) [GBytes] |          0 |
++--------------------------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+22.716170883
+--------------------------------------------------------------------------------
+Group 1: CPI
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|     RETIRED_UOPS     |   PMC2  |          0 |
++----------------------+---------+------------+
+
++----------------------+------------+
+|        Metric        | HWThread 0 |
++----------------------+------------+
+|  Runtime (RDTSC) [s] |    22.7820 |
+| Runtime unhalted [s] |          0 |
+|      Clock [MHz]     |      -     |
+|          CPI         |      -     |
+|  CPI (based on uops) |      -     |
+|          IPC         |      -     |
++----------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+23.353480378
+--------------------------------------------------------------------------------
+Group 1: CACHE
++------------------------+---------+------------+
+|          Event         | Counter | HWThread 0 |
++------------------------+---------+------------+
+|    ACTUAL_CPU_CLOCK    |  FIXC1  |          0 |
+|      MAX_CPU_CLOCK     |  FIXC2  |          0 |
+|  RETIRED_INSTRUCTIONS  |   PMC0  |          0 |
+|   CPU_CLOCKS_UNHALTED  |   PMC1  |          0 |
+|   DATA_CACHE_ACCESSES  |   PMC2  |          0 |
+| DATA_CACHE_REFILLS_ALL |   PMC3  |          0 |
++------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |    23.4208 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+|   data cache requests   |          0 |
+| data cache request rate |      -     |
+|    data cache misses    |          0 |
+|   data cache miss rate  |      -     |
+|  data cache miss ratio  |      -     |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+22.662196637
+--------------------------------------------------------------------------------
+Group 1: L3
++-----------------------------+---------+------------+
+|            Event            | Counter | HWThread 0 |
++-----------------------------+---------+------------+
+|       ACTUAL_CPU_CLOCK      |  FIXC1  |          0 |
+|        MAX_CPU_CLOCK        |  FIXC2  |          0 |
+|     RETIRED_INSTRUCTIONS    |   PMC0  |          0 |
+|     CPU_CLOCKS_UNHALTED     |   PMC1  |          0 |
+|       L2_PF_HIT_IN_L3       |   PMC2  |          0 |
+|       L2_PF_MISS_IN_L3      |   PMC3  |          0 |
+| L2_CACHE_MISS_AFTER_L1_MISS |   PMC4  |          0 |
++-----------------------------+---------+------------+
+
++-------------------------+------------+
+|          Metric         | HWThread 0 |
++-------------------------+------------+
+|   Runtime (RDTSC) [s]   |    22.7631 |
+|   Runtime unhalted [s]  |          0 |
+|       Clock [MHz]       |      -     |
+|           CPI           |      -     |
+| L3 bandwidth [MBytes/s] |          0 |
+| L3 data volume [GBytes] |          0 |
++-------------------------+------------+
+
+--------------------------------------------------------------------------------
+CPU name:	AMD Ryzen 5 5600G with Radeon Graphics         
+CPU type:	AMD K19 (Zen3) architecture
+CPU clock:	3.89 GHz
+--------------------------------------------------------------------------------
+25.208743958
+--------------------------------------------------------------------------------
+Group 1: MEM1
++----------------------+---------+------------+
+|         Event        | Counter | HWThread 0 |
++----------------------+---------+------------+
+|   ACTUAL_CPU_CLOCK   |  FIXC1  |          0 |
+|     MAX_CPU_CLOCK    |  FIXC2  |          0 |
+| RETIRED_INSTRUCTIONS |   PMC0  |          0 |
+|  CPU_CLOCKS_UNHALTED |   PMC1  |          0 |
+|    DRAM_CHANNEL_0    |   DFC0  |          0 |
+|    DRAM_CHANNEL_1    |   DFC1  |          0 |
+|    DRAM_CHANNEL_2    |   DFC2  |          0 |
+|    DRAM_CHANNEL_3    |   DFC3  |          0 |
++----------------------+---------+------------+
+
++--------------------------------------------+------------+
+|                   Metric                   | HWThread 0 |
++--------------------------------------------+------------+
+|             Runtime (RDTSC) [s]            |    25.2795 |
+|            Runtime unhalted [s]            |          0 |
+|                 Clock [MHz]                |      -     |
+|                     CPI                    |      -     |
+| Memory bandwidth (channels 0-3) [MBytes/s] |          0 |
+| Memory data volume (channels 0-3) [GBytes] |          0 |
++--------------------------------------------+------------+
+
