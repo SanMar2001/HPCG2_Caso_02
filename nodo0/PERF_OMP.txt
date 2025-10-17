@@ -1,4 +1,20 @@
-# started on Fri Oct 17 03:14:46 2025
+# started on Fri Oct 17 03:19:49 2025
 
-# started on Fri Oct 17 03:14:46 2025
+
+ Performance counter stats for './OMP 1600':
+
+         17,831.06 msec task-clock                #    3.818 CPUs utilized          
+                92      context-switches          #    5.160 /sec                   
+                 0      cpu-migrations            #    0.000 /sec                   
+             7,584      page-faults               #  425.325 /sec                   
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+
+       4.670339305 seconds time elapsed
+
+      15.716098000 seconds user
+       2.109135000 seconds sys
+
 

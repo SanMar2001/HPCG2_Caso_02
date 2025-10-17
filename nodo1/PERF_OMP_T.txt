@@ -1,0 +1,20 @@
+# started on Fri Oct 17 03:23:49 2025
+
+
+ Performance counter stats for './OMP_T 1600':
+
+            942.14 msec task-clock                #    1.889 CPUs utilized          
+                87      context-switches          #   92.343 /sec                   
+                 3      cpu-migrations            #    3.184 /sec                   
+             7,587      page-faults               #    8.053 K/sec                  
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+
+       0.498705668 seconds time elapsed
+
+       0.888249000 seconds user
+       0.053509000 seconds sys
+
+

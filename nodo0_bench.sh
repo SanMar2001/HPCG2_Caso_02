@@ -9,6 +9,6 @@ mkdir -p "$OUTDIR"
 
 perf stat -o "$OUTDIR/PERF_Sequential.txt" ./sequential 1600
 export OMP_NUM_THREADS=4
-perf stat -o "$OUTDIR/PERF_OMP.txt" ./omp 1600
+perf stat -o "$OUTDIR/PERF_OMP.txt" ./OMP 1600
 export OMP_NUM_THREADS=4
-perf stat -o "$OUTDIR/PERF_OMP_T.txt" ./omp_t 1600
+perf stat -o "$OUTDIR/PERF_OMP_T.txt" ./OMP_T 1600

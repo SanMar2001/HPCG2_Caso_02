@@ -1,0 +1,20 @@
+# started on Fri Oct 17 03:23:33 2025
+
+
+ Performance counter stats for './sequential 1600':
+
+         10,912.45 msec task-clock                #    0.999 CPUs utilized          
+                48      context-switches          #    4.399 /sec                   
+                 1      cpu-migrations            #    0.092 /sec                   
+             7,567      page-faults               #  693.428 /sec                   
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+
+      10.918916504 seconds time elapsed
+
+      10.725955000 seconds user
+       0.186538000 seconds sys
+
+
